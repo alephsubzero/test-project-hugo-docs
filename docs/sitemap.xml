@@ -3,7 +3,13 @@
   
   <url>
     <loc>https://alephsubzero.github.io/test-project-hugo-docs/</loc>
+    <lastmod>2017-08-20T19:34:53+02:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alephsubzero.github.io/test-project-hugo-docs/section/article1/</loc>
+    <lastmod>2017-08-20T19:34:53+02:00</lastmod>
   </url>
   
 </urlset>
